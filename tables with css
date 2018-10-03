@@ -1,13 +1,11 @@
-<table border="0">
+<table id="customers">
 	<tbody>
-		<tr>
-			<td>
-				<div style="text-align: center;"><strong>Poster Title</strong></div>
-			</td>
-			<td>
-				<div style="text-align: center;"><strong>Author</strong></div>
-			</td>
-		</tr>
+		
+        <tr>
+    <th><div style="text-align: center;"><strong>Poster Title</strong></div></th>
+    <th>Author</th>
+    
+  </tr>
 		<tr>
 			<td>Evaluation of &nbsp;laser land leveling technology to improve rice farming efficiency in the Central plains of Thailand
 				<br>
@@ -344,14 +342,7 @@
 				<br>
 			</td>
 		</tr>
-		<tr>
-			<td>###############
-				<br>
-			</td>
-			<td>###########
-				<br>
-			</td>
-		</tr>
+		
 		<tr>
 			<td>Brown Hopper Attack in Rice
 				<br>
@@ -464,14 +455,7 @@
 				<br>
 			</td>
 		</tr>
-		<tr>
-			<td>###############
-				<br>
-			</td>
-			<td>###########
-				<br>
-			</td>
-		</tr>
+		
 		<tr>
 			<td>Weedy Rice Management in wet seeded Rice in Low Country Wet Zone &nbsp;of Sri Lanka
 				<br>
@@ -739,19 +723,26 @@
 	</tbody>
 </table>
 <style>
-table {
-    font-family: arial, sans-serif;
+#customers {
+    
     border-collapse: collapse;
     width: 100%;
 }
 
-td, th {
-    border: 1px solid #111;
-    text-align: left;
+#customers td, #customers th {
+    border: 1px solid #ddd;
     padding: 8px;
 }
 
-tr:nth-child(odd) {
-    background-color: #dddddd;
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #147c3f;
+    color: white;
 }
 </style>
