@@ -1,0 +1,20 @@
+<ol>
+	<li>Exploiting native traits for development of multi-stress tolerant rice hybrids (Deo Mishra)</li><br>
+	<li>Development of photo sensitive high yielding rice varieties - A new strategy of breeding for climate smart varieties in Telangana State of India (Chennamadhavuni Damodar Raju)</li><br>
+	<li>Jaya&rsquo; in the Genealogy of High Yielding Rice Cultivars of India (L V Subba Rao)</li><br>
+	<li>Progress in two decades of rice breeding for the tropical zone of Latin America and the Caribbean (Eduardo Graterol)</li><br>
+	<li>Improved Upland Rice Varieties for High Altitude Areas in Indonesia (Aris Hairmansis)</li><br>
+	<li>Improved Upland Rice Varieties for High Altitude Areas in Indonesia (Aris Hairmansis)</li>
+</ol>
+
+<style>
+	li {
+		border-radius: 5px;
+		border: 2px solid #147c3f;
+		background: white;
+		padding: 10px;
+		width: auto-fit;
+		height: auto;
+	}
+
+</style>
