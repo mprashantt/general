@@ -1,0 +1,140 @@
+<table style="width: 780px; float: left;" border="2" cellpadding="2">
+<tbody>
+<tr>
+<th style="width: 156px;"><strong>Requirement</strong></th>
+<th style="width: 371.086px;"><strong>Description</strong></th>
+<th style="width: 253.914px;"><strong>Details</strong></th>
+</tr>
+<tr>
+<td style="width: 156px;"><span class="wysiwyg-font-size-medium">Primary Colour</span></td>
+<td style="width: 371.086px;"><span class="wysiwyg-font-size-medium">The primary colour to match your event's branding.&nbsp; This will be used in the tab bar and the top navigation bar.</span></td>
+<td style="width: 253.914px;"><span class="wysiwyg-font-size-medium">The hex value of the primary colour.</span></td>
+</tr>
+<tr>
+<td style="width: 156px;"><span class="wysiwyg-font-size-medium">Secondary Colour</span></td>
+<td style="width: 371.086px;"><span class="wysiwyg-font-size-medium">The secondary colour to match your event's branding.</span></td>
+<td style="width: 253.914px;"><span class="wysiwyg-font-size-medium">The hex value of the secondary colour.</span></td>
+</tr>
+<tr>
+<td style="width: 156px;"><span class="wysiwyg-font-size-medium">App Icon</span></td>
+<td style="width: 371.086px;"><span class="wysiwyg-font-size-medium">The app icon will be displayed on the Home Screen of the device it is installed on.&nbsp; It will also be displayed on the Apple App Store and Google Play Store.</span></td>
+<td style="width: 253.914px;"><span class="wysiwyg-font-size-medium">Dimensions: 1024×1024 pixels<br>Format: PNG<br><br>The image should be a square, with no pre-rounded corners.</span></td>
+</tr>
+<tr>
+<td style="width: 156px;"><span class="wysiwyg-font-size-medium">Event Logo</span></td>
+<td style="width: 371.086px;"><span class="wysiwyg-font-size-medium">The event logo will be displayed at the top and aligned in the centre.</span></td>
+<td style="width: 253.914px;"><span class="wysiwyg-font-size-medium">Dimensions: 620×160 pixels<br>Format: PNG with transparent background</span></td>
+</tr>
+<tr>
+<td style="width: 156px;"><span class="wysiwyg-font-size-medium">Splash Screen</span></td>
+<td style="width: 371.086px;"><span class="wysiwyg-font-size-medium">The splash screen will be displayed when the app is launched for the first time.</span></td>
+<td style="width: 253.914px;">
+<p><span class="wysiwyg-font-size-medium">Dimensions: 1242×2208 pixels, padding of 121 pixels on both sides<br>Format: PNG</span></p>
+<p><span class="wysiwyg-font-size-medium">iPad Splash Screen Dimensions: 2048×2732 pixels<br>Format: PNG</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 156px;"><span class="wysiwyg-font-size-medium">Session Banner Images</span></td>
+<td style="width: 371.086px;"><span class="wysiwyg-font-size-medium">The session banner image will be displayed as a background image of a session card in the Programme/Agenda tab in your event app.</span></td>
+<td style="width: 253.914px;">
+<p><span class="wysiwyg-font-size-medium">Dimensions: 828×500 pixels<br>Format: PNG</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 156px;"><span class="wysiwyg-font-size-medium">Speaker Profile Pictures</span></td>
+<td style="width: 371.086px;"><span class="wysiwyg-font-size-medium">The speaker's profile picture will be displayed in the Speakers list and the speaker details screen in the Speakers module.&nbsp;</span></td>
+<td style="width: 253.914px;">
+<p><span class="wysiwyg-font-size-medium">Dimensions: 400×400 pixels<br>Format: PNG</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 156px;"><span class="wysiwyg-font-size-medium">Attendee Profile Pictures</span></td>
+<td style="width: 371.086px;"><span class="wysiwyg-font-size-medium">The attendee's profile picture will be displayed in the Attendee list.</span></td>
+<td style="width: 253.914px;">
+<p><span class="wysiwyg-font-size-medium">Dimensions: 300</span><span class="wysiwyg-font-size-medium">×300 pixels<br>Format: PNG</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 156px;"><span class="wysiwyg-font-size-medium">Feature Graphic</span></td>
+<td style="width: 371.086px;"><span class="wysiwyg-font-size-medium">The feature graphic will be displayed at the top of your Store Listing page in the Google Play Store.</span></td>
+<td style="width: 253.914px;">
+<p><span class="wysiwyg-font-size-medium">Dimensions: 1024×500 pixels<br>Format: PNG</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 156px;"><span class="wysiwyg-font-size-medium">Featured Items</span></td>
+<td style="width: 371.086px;"><span class="wysiwyg-font-size-medium">The Featured module allows you to highlight important sessions and activities with full screen banner images.&nbsp; Multiple featured items are allowed, and they will be displayed as a slideshow.</span></td>
+<td style="width: 253.914px;">
+<p><span class="wysiwyg-font-size-medium">Dimensions: 900×1400 pixels, padding of 80 pixels on both sides.<br>Format: PNG</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 156px;"><span class="wysiwyg-font-size-medium">Floor Plan</span></td>
+<td style="width: 371.086px;"><span class="wysiwyg-font-size-medium">The booth numbers in the Exhibitors and Sponsors module can be integrated with the floor plan.&nbsp; Multiple floor plans can be uploaded.</span></td>
+<td style="width: 253.914px;">
+<p><span class="wysiwyg-font-size-medium">Format: PNG, JPEG</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 156px;"><span class="wysiwyg-font-size-medium">Company Logos</span></td>
+<td style="width: 371.086px;"><span class="wysiwyg-font-size-medium">Company logos for Sponsors and Exhibitors.</span></td>
+<td style="width: 253.914px;">
+<p><span class="wysiwyg-font-size-medium">Dimensions: 560×300 pixels<br>Format: PNG</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 156px;"><span class="wysiwyg-font-size-medium">App Name&nbsp;</span></td>
+<td style="width: 371.086px;"><span class="wysiwyg-font-size-medium">The app name that will appear on the Apple App Store and Google Play Store.</span></td>
+<td style="width: 253.914px;">
+<p><span class="wysiwyg-font-size-medium">Maximum length: 30 characters (including spaces)</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 156px;"><span class="wysiwyg-font-size-medium">Home Screen App Name</span></td>
+<td style="width: 371.086px;"><span class="wysiwyg-font-size-medium">The app name that will appear on the home screen of your device.&nbsp;</span></td>
+<td style="width: 253.914px;">
+<p><span class="wysiwyg-font-size-medium">Recommended length: 11 characters (including spaces)</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 156px;"><span class="wysiwyg-font-size-medium">App Description</span></td>
+<td style="width: 371.086px;"><span class="wysiwyg-font-size-medium">The description of your event and the features available in the mobile app.&nbsp; The app description will be included in the Apple App Store and Google Play Store.</span></td>
+<td style="width: 253.914px;">
+<p><span class="wysiwyg-font-size-medium">Maximum length: 4000 characters (including spaces)</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 156px;"><span class="wysiwyg-font-size-medium">Keywords</span></td>
+<td style="width: 371.086px;"><span class="wysiwyg-font-size-medium">One or more keywords that describes your event app.&nbsp; It will be easier for your users to search for the app in the app store, and will ensure that app store search results are more accurate</span></td>
+<td style="width: 253.914px;">
+<p><span class="wysiwyg-font-size-medium">Maximum length: 100 characters (including commas)</span><br><br><span class="wysiwyg-font-size-medium">Separate each keyword with a comma.</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<style>
+table {
+    
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2;}
+td:nth-child(odd){width:80%;}
+
+
+tr:hover {background-color: #ddd;}
+
+th {
+    padding-top: 14 px;
+    padding-bottom: 10px;
+    text-align: left;
+    background-color: #6988fa;
+    color: white;
+}
+</style>
